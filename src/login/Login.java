@@ -4,5 +4,6 @@ public class Login {
 
     // username
     // password
-    //the adress
-   // the name
+    //the address
+    // the name
+}
