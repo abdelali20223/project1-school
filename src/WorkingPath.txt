@@ -2,7 +2,7 @@
 
     1. What are we going to practice?
 
-    2. If anyone have a java project that we can work in here please provide that in group meeting
+    2. If anyone has a java project that we can work in here, please provide that in group meeting
 
     3. We have to set rules
 
